@@ -2,6 +2,10 @@
 
 PicoADSB is the smallest ADS-B aviation surveillance receiver ever created. It utilizes embedded hardware to stay small, light, fast, and inexpensive while also improving reliability.
 
+## Status
+
+As of 2024-06, PicoADSB is in its last few rounds of development. We have functional prototype hardware and software doing E2E reception, decoding, feeding, and MAVLink connections. We're hoping to have PicoADSB hardware commercially available within Q3 2024.
+
 ## Features
 
 - Mode-S and ADS-B reception: both Mode-S and ADS-B frames can be handled by PicoADSB
